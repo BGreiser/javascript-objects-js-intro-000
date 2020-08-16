@@ -7,3 +7,7 @@ var playlist = {
 function updatePlaylist(a, b, c) {
   a[b] = c
 };
+
+function removeFromPlaylist(a, b) {
+  delete a.b
+}
