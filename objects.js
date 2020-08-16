@@ -3,4 +3,3 @@ var playlist = {
   nirvana: "Smells Like Teen Spirit",
   pearlJam: "Black"
 };
-
